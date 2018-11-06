@@ -1,0 +1,8 @@
+{
+   "localeDir": "src/locales/",
+    "extractBabelOptions": {},
+    "fallbackLocale": "",
+    "sourceLocale": "",
+   "srcPathDirs": ["src/"],
+   "format": "lingui"
+}

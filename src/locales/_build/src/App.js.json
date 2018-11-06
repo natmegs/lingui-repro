@@ -1,0 +1,18 @@
+{
+  "Some string with {variable}": {
+    "origin": [
+      [
+        "src/App.js",
+        16
+      ]
+    ]
+  },
+  "{0, plural, one {Only one} other {More than one}}": {
+    "origin": [
+      [
+        "src/App.js",
+        20
+      ]
+    ]
+  }
+}
